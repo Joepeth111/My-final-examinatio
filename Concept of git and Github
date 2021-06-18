@@ -1,0 +1,6 @@
+Distributed version control system, as a contrast 
+To for example subversion that is centralized. 
+What this subversion, the code repository (repo)
+Lives on a server and people need special permissio
+(Commit right) to be able to add code to the repo.
+Everything lives in one place.
